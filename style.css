@@ -1,0 +1,49 @@
+body{
+    background-image: url(bg2.jpeg);
+    background-color: rgb(154, 214, 238);
+}
+p{
+   font: size 30px;
+   font-weight: bold;
+    color: rgb(32, 181, 240);
+}
+h1{
+    font: size 30px;
+    color: white;
+    text-decoration: overline;
+    position: fixed;
+    margin-top: -90px;
+    border: 5px blue solid;
+}
+h2{
+    color: white;
+    text-decoration: underline;
+    margin-top: 100px;
+}
+button{
+    background-color: rgb(189, 189, 250);
+    color: rgba(0, 0, 5, 0.932);
+    font-weight: bold;
+    border-radius: 10px;
+    border: blue;
+}
+ul{
+    text-align: left;
+    padding: 15px;
+}
+ul li{
+    padding: 5px;
+}
+h3{
+    color: orange;
+}
+.page{
+    color: white;
+    opacity: 0.5;
+}
+.card{
+    font-size: 10px;
+    margin: 5px;
+    margin-left: 5px;
+    padding-left: 2px;
+}
